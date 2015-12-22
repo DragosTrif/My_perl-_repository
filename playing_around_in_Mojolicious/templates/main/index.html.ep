@@ -1,0 +1,7 @@
+<h2> Moblo &mdash; Blog Index</h2>
+<p> Welcome to Moblo!</p>
+<h3> Post index</h3>
+<p>None! :/</p>
+<p>
+	%= link_to Login => 'login_form'
+</p>
